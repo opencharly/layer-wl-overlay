@@ -53,9 +53,9 @@ that the `gtk4-layer-shell` package is present.
 
 ## Related
 
-- Owning skill: `/charly-selkies:wl-overlay-layer` — the closest existing skill
-  (the candy's package/script contract). There is no per-repo owning skill; the
-  gap is recorded against opencharly/opencharly#291.
+- Closest skill: `/charly-selkies:wl-overlay-layer` — the candy's package/script
+  contract. This repo carries no per-repo owning skill (recorded against
+  opencharly/opencharly#291).
 - `/charly-check:wl-overlay` — the `wl: overlay-*` methods that drive the helper
 - `/charly-check:wl` — the parent Wayland desktop-automation verb
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
