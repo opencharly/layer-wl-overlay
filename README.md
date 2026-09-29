@@ -20,7 +20,9 @@ check verb's `overlay-*` methods for screen recordings.
 
 ## How to use it
 
-Compose the layer by pinning this repo in a box's `candy:` list:
+Compose the layer by pinning this repo in a box's `candy:` list. The named
+entity is a box: its `candy:` value is the box BODY (holding `base:` and the
+nested composition `candy:` list):
 
 ```yaml
 my-desktop-box:
